@@ -1,6 +1,27 @@
 # 👋 Hi, I'm Pranay
 
-<img src="https://skillicons.dev/icons?i=cpp,linux,neovim,cmake,git,tmux,ninja,react,node,bun,docker" />
+<p align="center">
+
+  <!-- Linux, Arch, Neovim -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,neovim" />
+  </a>
+
+  <br /><br />
+
+  <!-- Tool -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,cmake,bash" />
+  </a>
+
+  <br /><br />
+
+  <!-- Tech Stack -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,react,flutter" />
+  </a>
+
+</p>
 
 - 🔧 I build tools, plugins, and systems stuff  
 - 🐧 Love Linux internals, Neovim, and CPUs  
