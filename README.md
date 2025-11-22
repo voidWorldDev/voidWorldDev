@@ -8,17 +8,19 @@
   </a>
 
   <br /><br />
+   <!-- Tool -->
 
-  <!-- Tool -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cmake,bash" />
+<h2> Tools </h2> 
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,cmake,bash" />
   </a>
 
   <br /><br />
 
   <!-- Tech Stack -->
+<h2> Language/Library Stack </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,express,flutter,dart" />
   </a>
 
 </p>
