@@ -30,6 +30,5 @@
 - Like to work on open-source tools.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidWorldDev&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/voidWorldDev?template=classic&languages=1&isocalendar=1&stars=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidWorldDevs&layout=compact&theme=tokyonight)
