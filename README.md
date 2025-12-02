@@ -30,5 +30,7 @@
 - Like to work on open-source tools.
 
 
-![Metrics](https://metrics.lecoq.io/voidWorldDev?template=classic&languages=1&isocalendar=1&stars=1)
+<div align="center">
+  <img src="https://metrics.lecoq.io/voidWorldDev?template=classic&languages=1&isocalendar=1&stars=1" />
+</div>
 
