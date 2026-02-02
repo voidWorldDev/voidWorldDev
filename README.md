@@ -29,6 +29,6 @@
 - 🐧 Love Linux internals, Neovim, and CPUs  
 - Like to work on open-source tools.
 
-![voidWorldDev's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=voidWorldDev&show_icons=true&theme=radical)
+<!-- ![voidWorldDev's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=voidWorldDev&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=voidWorldDev&layout=compact&theme=dracula)
 
