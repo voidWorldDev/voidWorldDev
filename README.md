@@ -30,7 +30,5 @@
 - Like to work on open-source tools.
 
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/voidWorldDev?template=classic&languages=1&isocalendar=1&stars=1" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidWorldDev)](https://github.com/voidWorldDev)
 
